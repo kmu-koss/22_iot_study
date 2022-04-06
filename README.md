@@ -41,42 +41,64 @@
 
 ### 1팀
 
-|  이름  |          03/27          |          03/28          | 04/03 |      |      |      |      |      |      |      |      |      |      |      |
-| :----: | :---------------------: | :---------------------: | :---: | :--: | :--: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 심혜린 |            🤒            |            🤒            |       |      |      |      |      |      |      |      |      |      |      |      |
-| 공채연 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 안지원 |            🤒            |            🤒            |       |      |      |      |      |      |      |      |      |      |      |      |
-| 김언지 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 유다영 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
+|  이름  |          03/27          |          03/28          |          04/03          | 04/07 | 04/10 |      |      |      |      |      |      |      |      |      |
+| :----: | :---------------------: | :---------------------: | :---------------------: | :---: | :---: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 심혜린 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
+| 공채연 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
+| 안지원 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
+| 김언지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
+| 유다영 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
 
 ### 2팀 
-|  이름  |          03/27          |          03/29          | 04/03 |      |      |      |      |      |      |      |      |      |      |      |
-| :----: | :---------------------: | :---------------------: | :---: | :--: | :--: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 김지윤 | :ballot_box_with_check: |            🤒            |       |      |      |      |      |      |      |      |      |      |      |      |
-| 이채영 | :ballot_box_with_check: |            🤒            |       |      |      |      |      |      |      |      |      |      |      |      |
-| 윤신지 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 이준혁 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 윤민우 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 박진우 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
-| 권세건 | :ballot_box_with_check: | :ballot_box_with_check: |       |      |      |      |      |      |      |      |      |      |      |      |
+|  이름  |          03/27          |          03/29          |          04/03          |             04/05             | 04/10 |      |      |      |      |      |      |      |      |      |
+| :----: | :---------------------: | :---------------------: | :---------------------: | :---------------------------: | :---: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 김지윤 | :ballot_box_with_check: |            🤒            | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 이채영 | :ballot_box_with_check: |            🤒            |            🤒            |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 윤신지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 이준혁 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 윤민우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 박진우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
+| 권세건 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :negative_squared_cross_mark: |       |      |      |      |      |      |      |      |      |      |
+
+
+
+## :green_book: 스터디 진도
+
+### 1주차
+
+- 사전 강의 : https://www.inflearn.com/course/web2-node-js
+- 웹 프레임워크 Express.js : https://www.inflearn.com/course/node-js-express
+- 노드 교과서 1장, 4장, 5장, 6장, 8장 
+- 1주차 과제 : [몽고 DB 를 연동한 연락처 관리 웹 페이지 제작](https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기)
+
+### 2주차
+
+- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 1장 ~ 4장 
+- (4/10) [HTTP 기본지식](https://www.inflearn.com/course/http-웹-네트워크) 보충 세션
+
+## 3주차
+
+- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 5장 ~ 7장 
+
+
 
 ## :pencil2: 과제 수행 ##
 
 ### 1팀
-|  이름  | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
-| :----: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 심혜린 |       |       |       |       |       |       |
-| 공채연 |       |       |       |       |       |       |
-| 안지원 |       |       |       |       |       |       |
-| 김언지 |       |       |       |       |       |       |
-| 유다영 |       |       |       |       |       |       |
+|  이름  |             1주차             | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
+| :----: | :---------------------------: | :---: | :---: | :---: | :---: | :---: |
+| 심혜린 |    :ballot_box_with_check:    |       |       |       |       |       |
+| 공채연 |    :ballot_box_with_check:    |       |       |       |       |       |
+| 안지원 | :negative_squared_cross_mark: |       |       |       |       |       |
+| 김언지 |    :ballot_box_with_check:    |       |       |       |       |       |
+| 유다영 |    :ballot_box_with_check:    |       |       |       |       |       |
 ### 2팀 
-|  이름  | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
-| :----: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 김지윤 |       |       |       |       |       |       |
-| 이채영 |       |       |       |       |       |       |
-| 윤신지 |       |       |       |       |       |       |
-| 이준혁 |       |       |       |       |       |       |
-| 윤민우 |       |       |       |       |       |       |
-| 박진우 |       |       |       |       |       |       |
-| 권세건 |       |       |       |       |       |       |
+|  이름  |          1주차          | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
+| :----: | :---------------------: | :---: | :---: | :---: | :---: | :---: |
+| 김지윤 | :ballot_box_with_check: |       |       |       |       |       |
+| 이채영 | :ballot_box_with_check: |       |       |       |       |       |
+| 윤신지 | :ballot_box_with_check: |       |       |       |       |       |
+| 이준혁 | :ballot_box_with_check: |       |       |       |       |       |
+| 윤민우 | :ballot_box_with_check: |       |       |       |       |       |
+| 박진우 | :ballot_box_with_check: |       |       |       |       |       |
+| 권세건 | :ballot_box_with_check: |       |       |       |       |       |

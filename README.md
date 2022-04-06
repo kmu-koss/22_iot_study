@@ -76,7 +76,7 @@
 - [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 1장 ~ 4장 
 - (4/10) [HTTP 기본지식](https://www.inflearn.com/course/http-웹-네트워크) 보충 세션
 
-## 3주차
+### 3주차
 
 - [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 5장 ~ 7장 
 

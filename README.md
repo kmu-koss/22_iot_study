@@ -18,7 +18,9 @@
 </table>
 
 
-### 2팀
+
+### 2팀 ( 코알라 )
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kim-Jiyun"><img src="https://avatars.githubusercontent.com/u/84488029?v=4" width="100px;" alt=""/><br /><sub><b>김지윤</b></sub></a><br /><a href="https://github.com/Kim-Jiyun" title="Code">💻</a></td>
@@ -37,68 +39,96 @@
 
 
 
+
 ## :alarm_clock: 출석 확인
 
-### 1팀
+### 중고나라 팀
 
-|  이름  |          03/27          |          03/28          |          04/03          | 04/07 | 04/10 |      |      |      |      |      |      |      |      |      |
-| :----: | :---------------------: | :---------------------: | :---------------------: | :---: | :---: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 심혜린 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
-| 공채연 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
-| 안지원 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
-| 김언지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
-| 유다영 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |      |      |      |      |      |      |      |      |      |
+|  이름  |          03/27          |          03/28          |          04/03          | 04/07 | 04/10 | 04/11 |      |      |      |      |      |      |      |      |
+| :----: | :---------------------: | :---------------------: | :---------------------: | :---: | :---: | :---: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 심혜린 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |       |      |      |      |      |      |      |      |      |
+| 공채연 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |       |      |      |      |      |      |      |      |      |
+| 안지원 |            🤒            |            🤒            | :ballot_box_with_check: |       |       |       |      |      |      |      |      |      |      |      |
+| 김언지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |       |      |      |      |      |      |      |      |      |
+| 유다영 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |       |       |       |      |      |      |      |      |      |      |      |
 
-### 2팀 
-|  이름  |          03/27          |          03/29          |          04/03          |             04/05             | 04/10 |      |      |      |      |      |      |      |      |      |
-| :----: | :---------------------: | :---------------------: | :---------------------: | :---------------------------: | :---: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 김지윤 | :ballot_box_with_check: |            🤒            | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 이채영 | :ballot_box_with_check: |            🤒            |            🤒            |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 윤신지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 이준혁 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 윤민우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 박진우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |      |      |      |      |      |      |      |      |      |
-| 권세건 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :negative_squared_cross_mark: |       |      |      |      |      |      |      |      |      |      |
+### 코알라 팀 
+
+|  이름  |          03/27          |          03/29          |          04/03          |             04/05             | 04/10 | 04/12 |      |      |      |      |      |      |      |      |
+| :----: | :---------------------: | :---------------------: | :---------------------: | :---------------------------: | :---: | :---: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 김지윤 | :ballot_box_with_check: |            🤒            | :ballot_box_with_check: |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 이채영 | :ballot_box_with_check: |            🤒            |            🤒            |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 윤신지 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 이준혁 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 윤민우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 박진우 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |    :ballot_box_with_check:    |       |       |      |      |      |      |      |      |      |      |
+| 권세건 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :negative_squared_cross_mark: |       |       |      |      |      |      |      |      |      |      |
 
 
 
 ## :green_book: 스터디 진도
+
+스터디는 총 5주 과정으로 진행됩니다.
 
 ### 1주차
 
 - 사전 강의 : https://www.inflearn.com/course/web2-node-js
 - 웹 프레임워크 Express.js : https://www.inflearn.com/course/node-js-express
 - 노드 교과서 1장, 4장, 5장, 6장, 8장 
-- 1주차 과제 : [몽고 DB 를 연동한 연락처 관리 웹 페이지 제작](https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기)
 
 ### 2주차
 
 - [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 1장 ~ 4장 
 - (4/10) [HTTP 기본지식](https://www.inflearn.com/course/http-웹-네트워크) 보충 세션
+- 과제 : [몽고 DB 를 연동한 연락처 관리 웹 페이지 제작](https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기)
 
 ### 3주차
 
-- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 5장 ~ 7장 
+- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 5장 ~ 6장 
+
+### 중간고사
+
+### 4주차
+
+- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 7장 ~ 8장 
+- 과제 : 센서 여러개를 연결해보고 PMS7003M 센서(미세먼지)와 BME280 센서(온도,습도,압력) 데이터를 웹상으로 조회
+
+### 5주차
+
+- [사물인터넷 강의](https://www.inflearn.com/course/사물인터넷-통신/dashboard) 교재 9장 
+- 서버리스 모바일 앱 개발(파이어베이스) 보충 세션
+
+
+
+### 스터디를 마치고 
+
+:baby_chick: 우리는 이제 심화과정으로 넘어갑니다
+
+- 백엔드 -> Nest.js + 타입스크립트
+- 모바일 -> 코틀린 + 안드로이드 + 파이어베이스
 
 
 
 ## :pencil2: 과제 수행 ##
 
-### 1팀
-|  이름  |             1주차             | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
-| :----: | :---------------------------: | :---: | :---: | :---: | :---: | :---: |
-| 심혜린 |    :ballot_box_with_check:    |       |       |       |       |       |
-| 공채연 |    :ballot_box_with_check:    |       |       |       |       |       |
-| 안지원 | :negative_squared_cross_mark: |       |       |       |       |       |
-| 김언지 |    :ballot_box_with_check:    |       |       |       |       |       |
-| 유다영 |    :ballot_box_with_check:    |       |       |       |       |       |
-### 2팀 
-|  이름  |          1주차          | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
-| :----: | :---------------------: | :---: | :---: | :---: | :---: | :---: |
-| 김지윤 | :ballot_box_with_check: |       |       |       |       |       |
-| 이채영 | :ballot_box_with_check: |       |       |       |       |       |
-| 윤신지 | :ballot_box_with_check: |       |       |       |       |       |
-| 이준혁 | :ballot_box_with_check: |       |       |       |       |       |
-| 윤민우 | :ballot_box_with_check: |       |       |       |       |       |
-| 박진우 | :ballot_box_with_check: |       |       |       |       |       |
-| 권세건 | :ballot_box_with_check: |       |       |       |       |       |
+### 중고나라 팀
+
+|  이름  |          2주차          | 4주차 |
+| :----: | :---------------------: | :---: |
+| 심혜린 | :ballot_box_with_check: |       |
+| 공채연 | :ballot_box_with_check: |       |
+| 안지원 | :ballot_box_with_check: |       |
+| 김언지 | :ballot_box_with_check: |       |
+| 유다영 | :ballot_box_with_check: |       |
+
+### 코알라 팀 
+
+|  이름  |          2주차          | 4주차 |
+| :----: | :---------------------: | :---: |
+| 김지윤 | :ballot_box_with_check: |       |
+| 이채영 | :ballot_box_with_check: |       |
+| 윤신지 | :ballot_box_with_check: |       |
+| 이준혁 | :ballot_box_with_check: |       |
+| 윤민우 | :ballot_box_with_check: |       |
+| 박진우 | :ballot_box_with_check: |       |
+| 권세건 | :ballot_box_with_check: |       |
